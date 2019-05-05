@@ -1,0 +1,335 @@
+
+<style>
+	.page-banner-area.photo-4 {
+		background: rgba(0, 0, 0, 0) url(http://localhost/laptopbaongoc_mvc/file/1920-400-1.jpg) no-repeat scroll center center;
+	}
+	</style>
+<!-- PAGE-CONTENT START -->
+<section class="page-content">
+			<!-- PAGE-BANNER START -->
+			<div class="page-banner-area photo-4 margin-bottom-80">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="page-banner-menu">
+								<h2 class="page-banner-title">Single Blog</h2>
+								<ul>
+									<li><a href="index.html">home</a></li>
+									<li>Single Blog</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- PAGE-BANNER END -->
+			<!-- BLOG-AREA START -->
+			<div class="blog-area margin-bottom-80">
+				<div class="container">		
+					<div class="row">
+						<div class="col-md-9 col-sm-8 col-xs-12">
+							<div class="row">
+								<div class="col-md-12">
+									<div class="single-blog">
+										<div class="blog-photo">
+											<a href="#"><img src="<?=domainpic?>800-350-1.jpg" alt="" /></a>
+											<div class="blog-post-date">
+												<span>13th</span>
+												<span>Feb</span>
+											</div>
+										</div>
+										<div class="blog-brief">
+											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit.</p>
+											<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
+											<p class="blog-quote">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum maiores, voluptatibus fugit, quibusdam minima, nulla sint ullam vel iusto aliquid enim distinctio necessitatibus quisquam incidunt, nesciunt cum! Sequi, quae, voluptatibus?</p>
+											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit.</p>
+											<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.</p>
+											<div class="like-comment">
+												<a href="#"><i class="sp-like"></i>120 like</a>
+												<a href="#"><i class="sp-comment"></i>60 comment</a>
+											</div>
+										</div>
+									</div>
+									<div class="social-sharing">
+										<h3>Share this post</h3>
+										<div class="sharing-icon">
+											<a href="#"><i class="sp-facebook"></i></a>
+											<a href="#"><i class="sp-twitter"></i></a>
+											<a href="#"><i class="sp-linkedin"></i></a>
+											<a href="#"><i class="sp-google"></i></a>
+										</div>
+									</div>
+									<div class="author-info">
+										<div class="author-avatar"><img alt="" src="<?=template_user3_path?>/img/author.jpg"></div>
+										<div class="author-description">
+											<h3>About the Author: <a href="#">admin</a></h3>
+											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+										</div>
+									</div>	
+									<div class="single-post-comments">
+										<div class="comments-area">
+											<div class="comments-heading">
+												<h3>6 comments</h3>
+											</div>
+											<div class="comments-list">
+												<ul>
+													<li>
+														<div class="comments-details">
+															<div class="comments-list-img">
+																<img alt="" src="<?=template_user3_path?>/img/author.jpg">
+															</div>
+															<div class="comments-content-wrap">
+																<span>
+																	<b><a href="#">admin</a></b>
+																	Post author
+																	<span class="post-time">October 6, 2014 at 1:38 am</span>
+																	<a href="#">Reply</a>
+																</span>
+																<p>just a nice post</p>
+															</div>
+														</div>
+													</li>
+													<li class="threaded-comments">
+														<div class="comments-details">
+															<div class="comments-list-img">
+																<img alt="" src="<?=template_user3_path?>/img/momen-bhuiyan.jpg">
+															</div>
+															<div class="comments-content-wrap">
+																<span>
+																	<b><a href="#">demo</a></b>
+																	Post author
+																	<span class="post-time">October 6, 2014 at 2:25 pm</span>
+																	<a href="#">Reply</a>
+																</span>
+																<p>Quisque semper nunc vitae erat pellentesque, ac placerat arcu consectetur</p>
+															</div>
+														</div>
+													</li>
+													<li>
+														<div class="comments-details">
+															<div class="comments-list-img">
+																<img alt="" src="<?=template_user3_path?>/img/author.jpg">
+															</div>
+															<div class="comments-content-wrap">
+																<span>
+																	<b><a href="#">admin</a></b>
+																	Post author
+																	<span class="post-time">October 6, 2014 at 3:18 pm </span>
+																	<a href="#">Reply</a>
+																</span>
+																<p>Quisque orci nibh, porta vitae sagittis sit amet, vehicula vel mauris. Aenean at justo dolor. Fusce ac sapien bibendum, scelerisque libero nec</p>
+															</div>
+														</div>
+													</li>
+													<li class="threaded-comments">
+														<div class="comments-details">
+															<div class="comments-list-img">
+																<img alt="" src="<?=template_user3_path?>/img/momen-bhuiyan.jpg">
+															</div>
+															<div class="comments-content-wrap">
+																<span>
+																	<b><a href="#">demo</a></b>
+																	Post author
+																	<span class="post-time">October 6, 2014 at 4:25 pm</span>
+																	<a href="#">Reply</a>
+																</span>
+																<p>Quisque semper nunc vitae erat pellentesque, ac placerat arcu consectetur</p>
+															</div>
+														</div>
+													</li>
+													<li>
+														<div class="comments-details">
+															<div class="comments-list-img">
+																<img alt="" src="<?=template_user3_path?>/img/author.jpg">
+															</div>
+															<div class="comments-content-wrap">
+																<span>
+																	<b><a href="#">admin</a></b>
+																	Post author
+																	<span class="post-time">October 6, 2014 at 6:18 pm </span>
+																	<a href="#">Reply</a>
+																</span>
+																<p>Quisque orci nibh, porta vitae sagittis sit amet, vehicula vel mauris. Aenean at justo dolor. Fusce ac sapien bibendum, scelerisque libero nec</p>
+															</div>
+														</div>
+													</li>
+													<li class="threaded-comments">
+														<div class="comments-details">
+															<div class="comments-list-img">
+																<img alt="" src="<?=template_user3_path?>/img/momen-bhuiyan.jpg">
+															</div>
+															<div class="comments-content-wrap">
+																<span>
+																	<b><a href="#">demo</a></b>
+																	Post author
+																	<span class="post-time">October 6, 2014 at 7:25 pm</span>
+																	<a href="#">Reply</a>
+																</span>
+																<p>Quisque semper nunc vitae erat pellentesque, ac placerat arcu consectetur</p>
+															</div>
+														</div>
+													</li>									
+												</ul>
+											</div>
+										</div>
+										<div class="comment-respond">
+											<h3 class="comment-reply-title">Leave a Reply </h3>
+											<span class="email-notes">Your email address will not be published. Required fields are marked *</span>
+											<form action="#">
+												<div class="row">
+													<div class="col-md-4">
+														<p>Name *</p>
+														<input type="text">
+													</div>
+													<div class="col-md-4">
+														<p>Email *</p>
+														<input type="email">
+													</div>
+													<div class="col-md-4">
+														<p>Website</p>
+														<input type="text">
+													</div>
+													<div class="col-md-12 comment-form-comment">
+														<p>Website</p>
+														<textarea rows="10" cols="30" id="message"></textarea>
+														<input type="submit" value="Post Comment">
+													</div>
+												</div>
+											</form>
+										</div>						
+									</div>									
+								</div>						
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-4 col-xs-12">
+							<!-- widget-brand start -->
+							<!-- <aside class="widget widget-brand">
+								<h5 class="sidebar-title">Brand</h5>
+								<ul>
+									<li><input type="checkbox" /><a href="#">Country Road</a></li>
+									<li><input type="checkbox" /><a href="#">H&M Home</a></li>
+									<li><input type="checkbox" /><a href="#">Urban outfitters</a></li>
+									<li><input type="checkbox" /><a href="#">Zara home</a></li>
+								</ul>
+							</aside> -->
+							<!-- widget-brand end -->
+							<!-- widget-top-brand start -->
+							<aside class="widget top-rated">
+								<h5 class="sidebar-title">top rated</h5>
+								<div class="sidebar-product">
+									<!-- Single-product start -->
+									<div class="single-product">
+										<div class="product-photo">
+											<a href="#">
+												<img class="primary-photo" src="<?=domainpic?>82-82-1.jpg" alt=""/> 
+											</a>
+										</div>
+										<div class="product-brief">
+											<h2><a href="#">Randomised Words</a></h2>
+											<h3>$500.00 <span>$244.00</span></h3>
+										</div>
+									</div>	
+									<!-- Single-product end -->
+									<!-- Single-product start -->
+									<div class="single-product">
+										<div class="product-photo">
+											<a href="#">
+												<img class="primary-photo" src="<?=domainpic?>82-82-1.jpg" alt=""/> 
+											</a>
+										</div>
+										<div class="product-brief">
+											<h2><a href="#">CLEO POURER</a></h2>
+											<h3>$500.00 <span>$244.00</span></h3>
+										</div>
+									</div>	
+									<!-- Single-product end -->
+									<!-- Single-product start -->
+									<div class="single-product">
+										<div class="product-photo">
+											<a href="#">
+												<img class="primary-photo" src="<?=domainpic?>82-82-1.jpg" alt=""/> 
+											</a>
+										</div>
+										<div class="product-brief">
+											<h2><a href="#">TAM SPREADER</a></h2>
+											<h3>$500.00 <span>$244.00</span></h3>
+										</div>
+									</div>	
+									<!-- Single-product end -->
+									<!-- Single-product start -->
+									<div class="single-product">
+										<div class="product-photo">
+											<a href="#">
+												<img class="primary-photo" src="<?=domainpic?>82-82-1.jpg" alt=""/> 
+											</a>
+										</div>
+										<div class="product-brief">
+											<h2><a href="#">MARCEL THROW</a></h2>
+											<h3>$500.00 <span>$244.00</span></h3>
+										</div>
+									</div>	
+									<!-- Single-product end -->
+									<!-- Single-product start -->
+									<div class="single-product">
+										<div class="product-photo">
+											<a href="#">
+												<img class="primary-photo" src="<?=domainpic?>82-82-1.jpg" alt=""/> 
+											</a>
+										</div>
+										<div class="product-brief">
+											<h2><a href="#">RLIE EXTRA SMALL</a></h2>
+											<h3>$500.00 <span>$244.00</span></h3>
+										</div>
+									</div>	
+									<!-- Single-product end -->
+								</div>
+							</aside>
+							<!-- widget-top-brand end -->
+							<!-- widget sidebar-banner start -->
+							<aside class="widget sidebar-banner margin-mbl">
+								<a href="#"><img src="<?=domainpic?>272-283-1.jpg" alt="" /></a>
+							</aside>
+							<!-- widget sidebar-banner start -->
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- BLOG-AREA END -->
+			<!-- BRAND-LOGO-AREA START -->
+			<!-- <div class="brand-logo-area margin-bottom-80">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-5 col-sm-12">
+							<div class="brand-brief">
+								<h2 class="border-left-right">they are with us</h2>
+								<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. </p>
+							</div>
+						</div>
+						<div class="col-md-7 col-sm-12">
+							<div class="brand-logo fix">
+								<div class="single-logo">
+									<img src="<?=template_user3_path?>/img/brand/1.png" alt="" />
+								</div>
+								<div class="single-logo">
+									<img src="<?=template_user3_path?>/img/brand/2.png" alt="" />
+								</div>
+								<div class="single-logo">
+									<img src="<?=template_user3_path?>/img/brand/3.png" alt="" />
+								</div>
+								<div class="single-logo">
+									<img src="<?=template_user3_path?>/img/brand/4.png" alt="" />
+								</div>
+								<div class="single-logo">
+									<img src="<?=template_user3_path?>/img/brand/5.png" alt="" />
+								</div>
+								<div class="single-logo">
+									<img src="<?=template_user3_path?>/img/brand/6.png" alt="" />
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> -->
+			<!-- BRAND-LOGO-AREA END -->
+		</section>
+		<!-- PAGE-CONTENT END -->
